@@ -1,6 +1,6 @@
-import { characters, onClientCallback, warrants } from "@aifivem/lib/server";
-import { fail, oneArg, readId, readText } from "@aifivem/lib/shared";
-import { WARRANT_DURATIONS } from "@aifivem/shared";
+import { characters, onClientCallback, warrants } from "@aicore8/lib/server";
+import { fail, oneArg, readId, readText } from "@aicore8/lib/shared";
+import { WARRANT_DURATIONS } from "@aicore8/shared";
 import { EVENTS } from "common/police";
 import { onDutyOfficer } from "./content";
 

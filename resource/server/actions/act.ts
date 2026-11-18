@@ -11,8 +11,8 @@ import {
   plateOf,
   prison,
   vehicleNearPlayer,
-} from "@aifivem/lib/server";
-import { fail, readInt } from "@aifivem/lib/shared";
+} from "@aicore8/lib/server";
+import { fail, readInt } from "@aicore8/lib/shared";
 import { Locale } from "common";
 import { EVENTS, type Action } from "common/police";
 import { onDutyOfficer, settings } from "../content";

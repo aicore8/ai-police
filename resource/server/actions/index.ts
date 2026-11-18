@@ -1,5 +1,5 @@
-import { aiLogChannels, onClientCallback } from "@aifivem/lib/server";
-import { readId } from "@aifivem/lib/shared";
+import { aiLogChannels, onClientCallback } from "@aicore8/lib/server";
+import { readId } from "@aicore8/lib/shared";
 import { EVENTS, type Action } from "common/police";
 import { act } from "./act";
 

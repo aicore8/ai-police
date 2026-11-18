@@ -1,4 +1,4 @@
-import { isRecord } from "@aifivem/lib/shared";
+import { isRecord } from "@aicore8/lib/shared";
 import { Locale } from "common";
 
 /** Replies of the warrant callbacks, checked field by field (`callAction` leaves extra fields unchecked). */

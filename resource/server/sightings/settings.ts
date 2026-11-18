@@ -4,7 +4,7 @@ import {
   readBlipStyle,
   record,
   type BlipStyle,
-} from "@aifivem/lib/shared";
+} from "@aicore8/lib/shared";
 
 /** The panel's Wanted sightings tab (`data/sightings.json`, server only). */
 export interface Sightings {

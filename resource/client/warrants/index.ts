@@ -1,5 +1,5 @@
-import { callAction, input, menu, notify } from "@aifivem/lib/client";
-import { MENU_BACK } from "@aifivem/shared";
+import { callAction, input, menu, notify } from "@aicore8/lib/client";
+import { MENU_BACK } from "@aicore8/shared";
 import { Locale } from "common";
 import { EVENTS } from "common/police";
 import { describe, FALLBACK, person } from "./person";

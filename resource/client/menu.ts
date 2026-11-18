@@ -10,8 +10,8 @@ import {
   onDutyIn,
   onPlayerData,
   radial,
-} from "@aifivem/lib/client";
-import { MENU_BACK } from "@aifivem/shared";
+} from "@aicore8/lib/client";
+import { MENU_BACK } from "@aicore8/shared";
 import { Locale } from "common";
 import { EVENTS, type Action } from "common/police";
 import { restraints } from "./restraints";

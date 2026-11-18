@@ -16,7 +16,7 @@ Police work for on-duty members of the panel's police jobs: a job menu (F6, ai-c
 ## Contracts
 
 - Events: `resource/common/police.ts`. Player state bag `cuffed`.
-- Server export `ReportSighting(source, place)` (`AiPoliceServerExports` in `@aifivem/shared`): callers use `optionalExport("ai-police")?.ReportSighting(source, "<place>")` after the action succeeded, so a server without ai-police loses nothing.
+- Server export `ReportSighting(source, place)` (`AiPoliceServerExports` in `@aicore8/shared`): callers use `optionalExport("ai-police")?.ReportSighting(source, "<place>")` after the action succeeded, so a server without ai-police loses nothing.
 
 ## Entry points
 

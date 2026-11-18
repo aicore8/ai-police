@@ -1,59 +1,59 @@
 # Changelog
 
-## [0.3.0](https://github.com/aifivem/ai-police/compare/v0.2.4...v0.3.0) (2026-11-02)
+## [0.3.0](https://github.com/aicore8/ai-police/compare/v0.2.4...v0.3.0) (2026-11-02)
 
 
 ### New Features
 
-* **police:** alert police when a wanted suspect is seen ([6d84dab](https://github.com/aifivem/ai-police/commit/6d84dab1b7f85aaf45505ac18de1d0eabaa704f0))
-* **police:** count phone use as a wanted sighting through ai-core's phone layer ([f875a1a](https://github.com/aifivem/ai-police/commit/f875a1aac90a002f2040a4eaf2d21ec7554deeb7))
-* **police:** issue and clear warrants from the job menu ([374c8ba](https://github.com/aifivem/ai-police/commit/374c8ba4332f1aab712e596ac290f44ddccd8c6e))
+* **police:** alert police when a wanted suspect is seen ([6d84dab](https://github.com/aicore8/ai-police/commit/6d84dab1b7f85aaf45505ac18de1d0eabaa704f0))
+* **police:** count phone use as a wanted sighting through ai-core's phone layer ([f875a1a](https://github.com/aicore8/ai-police/commit/f875a1aac90a002f2040a4eaf2d21ec7554deeb7))
+* **police:** issue and clear warrants from the job menu ([374c8ba](https://github.com/aicore8/ai-police/commit/374c8ba4332f1aab712e596ac290f44ddccd8c6e))
 
-## [0.2.4](https://github.com/aifivem/ai-police/compare/v0.2.3...v0.2.4) (2026-11-02)
+## [0.2.4](https://github.com/aicore8/ai-police/compare/v0.2.3...v0.2.4) (2026-11-02)
 
 
 ### Documentation
 
-* install from the release zip ([0ef5459](https://github.com/aifivem/ai-police/commit/0ef5459204c9ff265a526fbdeefac96f00a51535))
+* install from the release zip ([0ef5459](https://github.com/aicore8/ai-police/commit/0ef5459204c9ff265a526fbdeefac96f00a51535))
 
 
 ### Miscellaneous Chores
 
-* build files are no longer in git, the release zip carries them ([45271eb](https://github.com/aifivem/ai-police/commit/45271eb2ae6e2239cc37beee0509ada7a9b751ea))
+* build files are no longer in git, the release zip carries them ([45271eb](https://github.com/aicore8/ai-police/commit/45271eb2ae6e2239cc37beee0509ada7a9b751ea))
 
-## [0.2.3](https://github.com/aifivem/ai-police/compare/v0.2.2...v0.2.3) (2026-11-02)
-
-
-### Code Refactoring
-
-* import the shared packages from [@aifivem](https://github.com/aifivem) ([439a62b](https://github.com/aifivem/ai-police/commit/439a62b9eb2154390c6a8ccec913139c9b3c5fdd))
-
-## [0.2.2](https://github.com/aifivem/ai-police/compare/v0.2.1...v0.2.2) (2026-11-01)
+## [0.2.3](https://github.com/aicore8/ai-police/compare/v0.2.2...v0.2.3) (2026-11-02)
 
 
 ### Code Refactoring
 
-* feature folders, side entries that only import, panel schema per tab ([552fdae](https://github.com/aifivem/ai-police/commit/552fdaeeb64b3ef2c57638c0e155ae35752fabd4))
+* import the shared packages from [@aicore8](https://github.com/aicore8) ([439a62b](https://github.com/aicore8/ai-police/commit/439a62b9eb2154390c6a8ccec913139c9b3c5fdd))
 
-## [0.2.1](https://github.com/aifivem/ai-police/compare/v0.2.0...v0.2.1) (2026-10-31)
+## [0.2.2](https://github.com/aicore8/ai-police/compare/v0.2.1...v0.2.2) (2026-11-01)
+
+
+### Code Refactoring
+
+* feature folders, side entries that only import, panel schema per tab ([552fdae](https://github.com/aicore8/ai-police/commit/552fdaeeb64b3ef2c57638c0e155ae35752fabd4))
+
+## [0.2.1](https://github.com/aicore8/ai-police/compare/v0.2.0...v0.2.1) (2026-10-31)
 
 
 ### Miscellaneous Chores
 
-* rebuild with the current lib ([3015923](https://github.com/aifivem/ai-police/commit/301592352252cf94156baac88bfceadaa1797621))
+* rebuild with the current lib ([3015923](https://github.com/aicore8/ai-police/commit/301592352252cf94156baac88bfceadaa1797621))
 
-## [0.2.0](https://github.com/aifivem/ai-police/compare/v0.1.0...v0.2.0) (2026-10-31)
+## [0.2.0](https://github.com/aicore8/ai-police/compare/v0.1.0...v0.2.0) (2026-10-31)
 
 
 ### New Features
 
-* fines as bills with MDT records, impound through the garage layer, cuffing cancels emotes ([ee271ec](https://github.com/aifivem/ai-police/commit/ee271ecb094b7cccd92561cc515b27a94992876b))
+* fines as bills with MDT records, impound through the garage layer, cuffing cancels emotes ([ee271ec](https://github.com/aicore8/ai-police/commit/ee271ecb094b7cccd92561cc515b27a94992876b))
 
 
 ### Miscellaneous Chores
 
-* rebuild with the current lib ([cdbe183](https://github.com/aifivem/ai-police/commit/cdbe1836de4d2a4da17f6156fec72a68b25ca8d7))
-* rebuild with the current lib ([11eadc1](https://github.com/aifivem/ai-police/commit/11eadc1bc21426f3e8cdbd47b3f26d211efef81a))
-* rebuild with the current lib ([5f4f40e](https://github.com/aifivem/ai-police/commit/5f4f40ec8872efa4ac6ef2d0b2ff60fed71366d8))
-* rebuild with the current lib ([886459b](https://github.com/aifivem/ai-police/commit/886459b6babdef7963939b3790b87c947690d73f))
-* rebuild with the current lib ([1bcdbae](https://github.com/aifivem/ai-police/commit/1bcdbae8dbef50ea1ff037251e1daee79bcb295c))
+* rebuild with the current lib ([cdbe183](https://github.com/aicore8/ai-police/commit/cdbe1836de4d2a4da17f6156fec72a68b25ca8d7))
+* rebuild with the current lib ([11eadc1](https://github.com/aicore8/ai-police/commit/11eadc1bc21426f3e8cdbd47b3f26d211efef81a))
+* rebuild with the current lib ([5f4f40e](https://github.com/aicore8/ai-police/commit/5f4f40ec8872efa4ac6ef2d0b2ff60fed71366d8))
+* rebuild with the current lib ([886459b](https://github.com/aicore8/ai-police/commit/886459b6babdef7963939b3790b87c947690d73f))
+* rebuild with the current lib ([1bcdbae](https://github.com/aicore8/ai-police/commit/1bcdbae8dbef50ea1ff037251e1daee79bcb295c))

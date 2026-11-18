@@ -1,5 +1,5 @@
-import { isNear, onClientCallback, online } from "@aifivem/lib/server";
-import { fail } from "@aifivem/lib/shared";
+import { isNear, onClientCallback, online } from "@aicore8/lib/server";
+import { fail } from "@aicore8/lib/shared";
 import { EVENTS } from "common/police";
 import { core, settings, stations } from "./content";
 
